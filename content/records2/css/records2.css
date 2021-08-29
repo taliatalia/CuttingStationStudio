@@ -1,6 +1,15 @@
-.cls-1 {
-fill: #0a0a10;
+.make-stuff-white  .cls-1 { fill: #fff; }
+
+.make-stuff-white  span {color:#fff; } 
+
+.make-stuff-white {
+    margin-bottom: 100px;
 }
+
+
+.cls-1 {fill: #0A0A10;}
+
+
 input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], select, textarea, .woocommerce .quantity input.qty {
 	border-width: 0 0 2px 0 !important;
 	box-shadow: unset;
@@ -1197,8 +1206,8 @@ a:hover {
 	color: white;
 }
 *::selection {
-	background-color: #0095eb;
-	color: white;
+	/* background-color: #0095eb; */
+	/* color: white; */
 }
 .blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle, .pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside, .fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label, .pager-single a, #comments .commentlist>li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date, .widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count, .woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in, .woocommerce .shop_table .product-name .variation>dd, .shipping-calculator-button:after, .shop_slider .shop_slider_ul li .item_wrapper .price del, .testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer, .share-simple-wrapper .icons a {
 	color: #a8a8a8;
@@ -1659,7 +1668,7 @@ html {
 	background-color: #f0f0f0;
 }
 #Wrapper, #Content {
-	background-color: #f0f0f0;
+	/* background-color: #f0f0f0; */
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
 	font-family: "Poppins", Helvetica, Arial, sans-serif;
@@ -2924,7 +2933,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 	transition: background 0.3s, border-radius 0.3s, opacity 0.3s
 }
 .elementor-13 .elementor-element.elementor-element-b1dd039 {
-	padding: 100px 0px 75px 0px
+	padding: 100px 0px 75px 0px;
 }
 .elementor-13 .elementor-element.elementor-element-517e4cf.elementor-position-right .elementor-icon-box-icon {
 	margin-left: 15px
