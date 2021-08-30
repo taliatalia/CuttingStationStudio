@@ -1343,29 +1343,29 @@ a.action_button {
 	color: #fff;
 }
 #Top_bar .menu>li.current-menu-item>a, #Top_bar .menu>li.current_page_item>a, #Top_bar .menu>li.current-menu-parent>a, #Top_bar .menu>li.current-page-parent>a, #Top_bar .menu>li.current-menu-ancestor>a, #Top_bar .menu>li.current-page-ancestor>a, #Top_bar .menu>li.current_page_ancestor>a, #Top_bar .menu>li.hover>a {
-	color: #c6ff00;
+	color: #B19944;
 }
 #Top_bar .menu>li a:after {
-	background: #c6ff00;
+	background: #B19944;
 }
 .menuo-arrows #Top_bar .menu>li.submenu>a>span:not(.description)::after {
 	border-top-color: #fff;
 }
 #Top_bar .menu>li.current-menu-item.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current_page_item.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-menu-parent.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-page-parent.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-menu-ancestor.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-page-ancestor.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current_page_ancestor.submenu>a>span:not(.description)::after, #Top_bar .menu>li.hover.submenu>a>span:not(.description)::after {
-	border-top-color: #c6ff00;
+	border-top-color: #B19944;
 }
 .menu-highlight #Top_bar #menu>ul>li.current-menu-item>a, .menu-highlight #Top_bar #menu>ul>li.current_page_item>a, .menu-highlight #Top_bar #menu>ul>li.current-menu-parent>a, .menu-highlight #Top_bar #menu>ul>li.current-page-parent>a, .menu-highlight #Top_bar #menu>ul>li.current-menu-ancestor>a, .menu-highlight #Top_bar #menu>ul>li.current-page-ancestor>a, .menu-highlight #Top_bar #menu>ul>li.current_page_ancestor>a, .menu-highlight #Top_bar #menu>ul>li.hover>a {
 	background: #F2F2F2;
 }
 .menu-arrow-bottom #Top_bar .menu>li>a:after {
-	border-bottom-color: #c6ff00;
+	border-bottom-color: #B19944;
 }
 .menu-arrow-top #Top_bar .menu>li>a:after {
-	border-top-color: #c6ff00;
+	border-top-color: #B19944;
 }
 .header-plain #Top_bar .menu>li.current-menu-item>a, .header-plain #Top_bar .menu>li.current_page_item>a, .header-plain #Top_bar .menu>li.current-menu-parent>a, .header-plain #Top_bar .menu>li.current-page-parent>a, .header-plain #Top_bar .menu>li.current-menu-ancestor>a, .header-plain #Top_bar .menu>li.current-page-ancestor>a, .header-plain #Top_bar .menu>li.current_page_ancestor>a, .header-plain #Top_bar .menu>li.hover>a, .header-plain #Top_bar a:hover#header_cart, .header-plain #Top_bar a:hover#search_button, .header-plain #Top_bar .wpml-languages:hover, .header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown {
 	background: #F2F2F2;
-	color: #c6ff00;
+	color: #B19944;
 }
 .header-plain #Top_bar, .header-plain #Top_bar .menu>li>a span:not(.description), .header-plain #Top_bar a#header_cart, .header-plain #Top_bar a#search_button, .header-plain #Top_bar .wpml-languages, .header-plain #Top_bar a.action_button {
 	border-color: #F2F2F2;
@@ -1383,7 +1383,7 @@ a.action_button {
 	background: #0095eb;
 }
 .overlay-menu-toggle {
-	color: #c6ff00 !important;
+	color: #B19944 !important;
 	background: transparent;
 }
 #Overlay {
@@ -1396,7 +1396,7 @@ a.action_button {
 	color: #B1DCFB;
 }
 #Top_bar .responsive-menu-toggle, #Header_creative .creative-menu-toggle, #Header_creative .responsive-menu-toggle {
-	color: #c6ff00;
+	color: #B19944;
 	background: transparent;
 }
 #Side_slide {
@@ -1437,7 +1437,7 @@ a.action_button {
 	color: #a5a5a6;
 }
 #Footer a {
-	color: #c6ff00;
+	color: #B19944;
 }
 #Footer a:hover {
 	color: #fff;
@@ -1458,7 +1458,7 @@ a.action_button {
 	color: #5b5b5f;
 }
 #Footer .footer_copy .social li a:hover, #Footer .footer_copy .social-menu a:hover {
-	color: #c6ff00;
+	color: #B19944;
 }
 #Footer .footer_copy {
 	border-top-color: rgba(255, 255, 255, 0);
@@ -2627,7 +2627,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 .elementor-6 .elementor-element.elementor-element-013f8ea .elementor-button {
 	fill: #000;
 	color: #000;
-	background-color: #C6FF00;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 12px 70px 12px 70px
 }
@@ -2758,8 +2758,8 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 }
 .elementor-11 .elementor-element.elementor-element-44a5685 .elementor-button {
 	fill: #000;
-	color: #000;
-	background-color: #C6FF00;
+	color: white;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 12px 70px 12px 70px
 }
@@ -2779,8 +2779,8 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 }
 .elementor-11 .elementor-element.elementor-element-d76bb40 .elementor-button {
 	fill: #000;
-	color: #000;
-	background-color: #C6FF00;
+	color: #fff;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 12px 70px 12px 70px
 }
@@ -2800,8 +2800,8 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 }
 .elementor-11 .elementor-element.elementor-element-4887339 .elementor-button {
 	fill: #000;
-	color: #000;
-	background-color: #C6FF00;
+	color: #fff;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 12px 70px 12px 70px
 }
@@ -3027,8 +3027,8 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 }
 .elementor-13 .elementor-element.elementor-element-42ae646 .elementor-button {
 	fill: #000;
-	color: #000;
-	background-color: #C6FF00;
+	color: white;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 15px 90px 15px 90px
 }
@@ -3108,7 +3108,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 .elementor-15 .elementor-element.elementor-element-3626f5e .elementor-button {
 	fill: #000;
 	color: #000;
-	background-color: #C6FF00;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 15px 70px 15px 70px
 }
@@ -3125,7 +3125,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 .elementor-15 .elementor-element.elementor-element-1edc694 .elementor-button {
 	fill: #000;
 	color: #000;
-	background-color: #C6FF00;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 15px 70px 15px 70px
 }
@@ -3149,7 +3149,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-972f42b .elementor-st
 .elementor-15 .elementor-element.elementor-element-d4094c2 .elementor-button {
 	fill: #000;
 	color: #000;
-	background-color: #C6FF00;
+	background-color: #B19944;
 	border-radius: 20px 20px 20px 20px;
 	padding: 15px 90px 15px 90px
 }
