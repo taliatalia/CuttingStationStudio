@@ -2915,7 +2915,8 @@
 .elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
 	display: -webkit-box;
 	display: -ms-flexbox;
-	display: flex
+	display: flex;
+	/* border: 1px solid #b7973f; */
 }
 .elementor-widget-wrap>.elementor-element {
 	width: 100%
