@@ -2950,7 +2950,7 @@
 	padding: 20px
 }
 .elementor-column-gap-wider>.elementor-row>.elementor-column>.elementor-element-populated {
-	padding: 30px
+	padding: 30px;
 }
 .elementor-inner-section .elementor-column-gap-no .elementor-element-populated {
 	padding: 0
@@ -2975,7 +2975,7 @@
 		width: 20%
 	}
 	.elementor-column.elementor-col-25, .elementor-column[data-col="25"] {
-		width: 25%
+		width: 25%;
 	}
 	.elementor-column.elementor-col-30, .elementor-column[data-col="30"] {
 		width: 30%
